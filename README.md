@@ -1,7 +1,7 @@
 - ✌🏼 Hi, I’m Nilson. I'm from Venezuela 🇻🇪
-- 📱 I’m interested in **web development**
-- 🌱 I’m currently learning html, css, JavaScript.
-- 🤝🏼 I'm looking to collaborate on **projects to learn web development**
+- 📱 I’m interested in **data analysis**
+- 🌱 I’m currently learning python and sql.
+- 🤝🏼 I am interested in collaborating on **data analysis projects**
 
 <!---
 
